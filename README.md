@@ -6,7 +6,7 @@
 ```
 https://github.com/Yauheni89/Django_Project.git
 ```
-1. Установите зависимости:
+2. Установите зависимости:
 ```
 pip install poetry
 poetry install
